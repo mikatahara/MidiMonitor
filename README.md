@@ -11,9 +11,9 @@
 <li>Hit the MIDI keyboard, this application display MIDI Data.
 </ul>
 
-My Web Site is [WebMidiAudio](https://webmidiaudio.com/)<br>
+<br>
+<img src="https://mikatahara.github.io/MidiMonitor/midimonitor.png">
+<br>
 
-<br>
-<img src="midimonitor.png">
-<br>
+My Web Site is [WebMidiAudio](https://webmidiaudio.com/)<br>
 
