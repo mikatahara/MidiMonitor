@@ -15,5 +15,5 @@
 <img src="https://mikatahara.github.io/MidiMonitor/midimonitor.png">
 <br>
 
-My Web Site is [WebMidiAudio](https://webmidiaudio.com/)<br>
+My Web site is [WebMidiAudio](https://webmidiaudio.com/)<br>
 
